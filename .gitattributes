@@ -2,4 +2,4 @@
 *.jpg diff=exif
 *. export-ignore
 tests export-ignore
-*.js filter=updateAPIKEy
+*.js filter=updateAPIKey

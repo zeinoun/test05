@@ -1,2 +1,2 @@
 # Git Attributes
-.jpg diff=exif
+*.jpg diff=exif
